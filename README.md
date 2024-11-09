@@ -1,1 +1,1 @@
-# Ai-mpodel
+# Ai-model
